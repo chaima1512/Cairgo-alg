@@ -1,1 +1,2 @@
-// Main JavaScript File
+
+console.log("CAIRGO dashboard ready.");
